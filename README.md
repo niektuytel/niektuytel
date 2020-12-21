@@ -1,5 +1,5 @@
 ### Hi there 👋
-learning at home, some android stuff
+Learning at home, some android stuff
 
 ## info
 -> Nickname: Okido  
