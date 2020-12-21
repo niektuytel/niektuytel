@@ -1,6 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning at home
-- 🔭 I’m currently working on android stuff
+learning at home, now some android stuff
 <!--
 **niektuytel/niektuytel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
