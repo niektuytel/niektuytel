@@ -3,6 +3,7 @@ Learning at home, some android stuff
 
 ## info
 -> Nickname: Okido  
+-> Motto: `Don't waste your time, there is already a shortage of it`  
 -> Discord: Okido#3690  
 -> Stack Overflow: https://stackoverflow.com/users/13361987/niek-tuytel  
 
