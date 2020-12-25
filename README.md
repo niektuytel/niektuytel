@@ -1,12 +1,10 @@
-### Hi there 👋
-Learning every day a little more.  
-code in : [`Python`, `Java`, `Kotlin`, `C(++)(#)`]  
-love to : `Build Projects that are used in real life`  
-wants to: `Learn more Programming in C, Devices without a interface`
+Code in : [`Python`, `Java`, `Kotlin`, `C(++)(#)`]  
+Love to : `Build Projects that are used in real life`  
+Wants to: ✨`Learn more Programming in C, Devices without a interface`⚡
   
 
 ## info
--> Name: `Niek Tuytel`
+-> Name: `Niek Tuytel`  
 -> Nickname: `Okido`  
 -> Discord: `Okido#3690`  
 -> Tel/Whatsapp: `+31618395668`  
@@ -14,7 +12,7 @@ wants to: `Learn more Programming in C, Devices without a interface`
 
 ### Motto: `Don't waste your time, there is already a shortage of it`  
 <!--
-**niektuytel/niektuytel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**niektuytel/niektuytel** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -25,5 +23,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
