@@ -1,6 +1,7 @@
 Code in : [`C(++)(#)`, `Java`, `Kotlin`, `Python`]  
 Love to : `Build Projects that are used in real life`  
 Wants to: ✨`Learn more Programming in C, Devices without a interface`⚡
+Learn at: `Home`
   
 
 ## info
