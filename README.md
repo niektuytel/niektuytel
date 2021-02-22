@@ -7,4 +7,4 @@ Learn at: ⚡`Home`
 -> Discord: `Okido#3690`  
 -> Motto: `Don't waste your time, there is already a shortage of it`  
 
-I really code anything :)
+I really code anything :) , but mostly like hardware programming
