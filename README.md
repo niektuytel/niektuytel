@@ -7,4 +7,5 @@ Learn at: ⚡`Home`
 -> Discord: `Okido#3690`  
 -> Motto: `Don't waste your time, there is already a shortage of it`  
 
+all i coded will come on github,
 I really code anything :)
