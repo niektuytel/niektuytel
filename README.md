@@ -1,11 +1,7 @@
+Name: `Niek Tuytel` (Nickname: `Okido`)  
 Code in : [`C(++)(#)`, `Java`, `Kotlin`, `Python`]  
-Learn at: ⚡`Home`  
-Like: `AI`  
+Discord: `Okido#3690`  
 Motto: `Don't waste your time, there is already a shortage of it`  
-  
-## info
--> Name: `Niek Tuytel` (Nickname: `Okido`)  
--> Discord: `Okido#3690`  
 
 #### life journey
 00        = born: 29/07/1999  
