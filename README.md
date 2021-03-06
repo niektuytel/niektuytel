@@ -1,10 +1,19 @@
 Code in : [`C(++)(#)`, `Java`, `Kotlin`, `Python`]  
-Learn at: ⚡`Home`
+Learn at: ⚡`Home`  
+Like: `AI`  
+Motto: `Don't waste your time, there is already a shortage of it`  
   
 ## info
--> Name: `Niek Tuytel`  
--> Nickname: `Okido`  
+-> Name: `Niek Tuytel` (Nickname: `Okido`)  
 -> Discord: `Okido#3690`  
--> Motto: `Don't waste your time, there is already a shortage of it`  
 
-I really code anything :) , but mostly like programming in `hardware & AI`
+#### life journey
+00        = born: 29/07/1999  
+00 >> 16  = finish schools: ["primary school", "high school"]  
+16 >> 18  = worked as mechanic by https://www.peinemann.nl/en/   
+18 >> 21 =  See the magic of coding and started learning at home.    
+
+First try everything out what is there on the market and understanding the basics.  
+And after long research i do like AI the most.   
+[`psychology` + `math` + `code`] = my dream :)
+
