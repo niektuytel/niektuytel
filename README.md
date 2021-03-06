@@ -11,5 +11,3 @@ Discord: `Okido#3690`
 First try everything out what is there on the market and understanding the basics.  
 And after long research i do like AI the most.   
 [`psychology` + `math` + `code`] = my dream :)
-
-Motto: `Don't waste your time, there is already a shortage of it`  
