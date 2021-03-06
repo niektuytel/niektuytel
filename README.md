@@ -1,7 +1,6 @@
-Name: `Niek Tuytel` (Nickname: `Okido`)  
+Name: `Niek Tuytel` (`Okido`)  
 Code in : [`C(++)(#)`, `Java`, `Kotlin`, `Python`]  
 Discord: `Okido#3690`  
-Motto: `Don't waste your time, there is already a shortage of it`  
 
 #### life journey
 00        = born: 29/07/1999  
@@ -13,3 +12,4 @@ First try everything out what is there on the market and understanding the basic
 And after long research i do like AI the most.   
 [`psychology` + `math` + `code`] = my dream :)
 
+Motto: `Don't waste your time, there is already a shortage of it`  
