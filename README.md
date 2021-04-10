@@ -9,5 +9,7 @@ Discord: `Okido#3690`
 18 >> 21 =  See the magic of coding and started learning at home.    
 
 First try everything out what is there on the market and understanding the basics.  
-And after long research i do like AI the most.   
+And after long research i do like AI(`ML`) the most.   
 [`psychology` + `math` + `code`] = my dream :)
+
+(currently building the full `ML` tree, for scratch samples with good links to learn from) 
