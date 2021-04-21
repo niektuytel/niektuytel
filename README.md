@@ -8,8 +8,4 @@ Discord: `Okido#3690`
 16 >> 18  = worked as mechanic by https://www.peinemann.nl/en/   
 18 >> 21 =  See the magic of coding and started learning at home.    
 
-First try everything out what is there on the market and understanding the basics.  
-And after long research i do like AI(`ML`) the most.   
-[`psychology` + `math` + `code`] = my dream :)
-
-(currently building the full `ML` tree, for scratch samples with good links to learn from) 
+Focus on `machine learning`.
