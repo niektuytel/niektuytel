@@ -2,9 +2,9 @@ Name: `Niek Tuytel` (`Okido`)
 Discord: `Okido#3690`  
 
 #### life journey
-00        = born: 29/07/1999  
-00 >> 16  = School   
-16 >> 18  = Mechanic by https://www.peinemann.nl/en/   
-18 >> now = Coding... (`.c`,`.cs`,`.cpp`,`.java`,`.kt`,`.py`, etc.)
+ 29/07/1999   = born
+2003 >> 2016  = School   
+2016 >> 2018  = Mechanic by https://www.peinemann.nl/en/   
+2018 >> now = Coding... (`.c`,`.cs`,`.cpp`,`.java`,`.kt`,`.py`, etc.)
 
 Focus mostly on `machine learning`.
