@@ -1,5 +1,5 @@
 Name: `Niek Tuytel` (`Okido`)  
-Discord: `Okido#3690` 
+Discord: `Okido#3690`   
 Tel: +31618395(six)(six)8
 
 #### life journey (birth day: 29/07/1999)
